@@ -6,7 +6,7 @@ In this experiment, we attempt to learn disentangled representations. The DSprit
 
 Here is a heatmap of factors to neurons (latents).
 
-![Factors to latents heatmap](figures/latent_factor_mi.png)
+<img src="figures/latent_factor_mi.png" alt="Factors to latents heatmap" width="450">
 
 The "scale" factor activates the 8th neuron, the "posX" factor activates the 6th neuron, and the "posY" factor activates the 4th neuron.
 
