@@ -12,11 +12,11 @@ The "scale" factor activates the 8th neuron, the "posX" factor activates the 6th
 
 We can see what happens when we change the values of a certain neuron. Here is the "xPos" factor.
 
-![xPos factor traversal](figure/traversal_factor%3DposX.png)
+![xPos factor traversal](figures/traversal_factor%3DposX.png)
 
 and here is the "yPos" factor.
 
-![yPos factor traversal](figure/traversal_factor%3DposY.png)
+![yPos factor traversal](figures/traversal_factor%3DposY.png)
 
 ## Replication
 
